@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://daigahpeic.xiaoshenzhang.tech/sitemap.xml
